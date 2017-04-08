@@ -1,6 +1,6 @@
 # Portfolio
 My Portfolio
-[Live Demo!](http://jonahbaka.github.io/github.io-portfolio)
+[Live Demo!](http://jonahbaka.github.io/github.io-vSpace)
 * social media icons: http://www.flaticon.com/
 
 # references:
